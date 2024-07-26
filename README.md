@@ -1,1 +1,4 @@
-"# ITF-Lab 2024"
+# ITF-Lab 2024
+
+##Author
+*Phudit Prakobkit 67070136
